@@ -39,7 +39,7 @@ facilitates communication between them.
 
 ## How/Why is this useful?
 - The additional context provided by having the program source next to GDB is
-extremely useful
+extremely useful (easily see line numbers, function names, arguments, etc.)
 - The minimal UI is very pleasant to use and flexible enough that you can use
 it in the way that fits your workflow
 - Demo!
