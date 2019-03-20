@@ -47,3 +47,7 @@ it in the way that fits your workflow
 ## Gotchas
 - Termdebug _does not_ open source file automatically. Why not? I'd like to
 submit a PR which does this by default or provides an opt-in config flag.
+
+## Resources
+- https://github.com/vim/vim/blob/master/runtime/pack/dist/opt/termdebug/plugin/termdebug.vim
+- https://www.youtube.com/watch?v=fI181d1ujcc
