@@ -2,8 +2,9 @@
 
 ## What is it?
 - ["Debugger plugin using gdb" - Bram](https://github.com/vim/vim/blob/master/runtime/pack/dist/opt/termdebug/plugin/termdebug.vim#L1)
-- VimScript program whichs creates windows (source, execution and GDB) and
+- VimScript program which creates windows (source, output and GDB) and
 facilitates communication between them.
+
 
 ## How do I get it?
 - Vim 8.1
@@ -45,7 +46,7 @@ it in the way that fits your workflow
 - Demo!
 
 ## Gotchas
-- Termdebug _does not_ open source file automatically. Why not? I'd like to
+- Termdebug _does not_ open man source file automatically. Why not? I'd like to
 submit a PR which does this by default or provides an opt-in config flag.
 
 ## Resources
