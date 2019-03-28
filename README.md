@@ -46,7 +46,7 @@ it in the way that fits your workflow
 - Demo!
 
 ## Gotchas
-- Termdebug _does not_ open man source file automatically. Why not? I'd like to
+- Termdebug _does not_ open the main source file automatically. Why not? I'd like to
 submit a PR which does this by default or provides an opt-in config flag.
 
 ## Resources
