@@ -46,8 +46,9 @@ it in the way that fits your workflow
 - Demo!
 
 ## Gotchas
-- Termdebug _does not_ open the main source file automatically. Why not? I'd like to
-submit a PR which does this by default or provides an opt-in config flag.
+- Termdebug _does not_ open the main source file automatically. Is there a good 
+reason for this? If not, I'd like to submit a PR which does this by default, 
+provides an opt-in config flag or uses the popup api to select the file(s).
 
 ## Resources
 - https://github.com/vim/vim/blob/master/runtime/pack/dist/opt/termdebug/plugin/termdebug.vim
